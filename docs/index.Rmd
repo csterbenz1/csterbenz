@@ -1,0 +1,8 @@
+---
+title: "index"
+author: "Ciara Sterbenz"
+date: '2023-11-01'
+output: html_document
+---
+
+this is stupid
