@@ -1,8 +1,10 @@
 ---
-title: "index"
-author: "Ciara Sterbenz"
-date: '2023-11-01'
-output: html_document
+title: "Ciara Sterbenz"
+site: distill::distill_website
 ---
 
-this is stupid
+
+## Hello!
+
+
+I am currently a Ph.D Candidate at the University of California, Los Angeles and a US-Asia Grand Strategy Predoctoral Fellow at The Korean Studies Institute at University of Southern California.
