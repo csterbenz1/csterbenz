@@ -29,3 +29,5 @@ My research explores the domestic drivers of aggressive foreign policy, paying p
 At UCLA, I have twice taught a specialized upper-division seminar "Politics of East Asia: Unique Puzzles in International Relations" as well as our department's required statistics class for all majors "Introduction to Data Analysis." As a TA, I have also taught in Introduction to IR, as well as in graduate-level methodology courses including MLE, Causal Inference, and Experimental Design. I have also served as our department "Math Maven" assisting fellow graduate students on any problems related to methodology in their research or coursework for several years and additionally taught the "Math Camp" review crash course for incoming first year graduate students.
 
 ## CV
+
+Please find my current CV [here](https://csterben1.github.io/docs/CV_2023_jan_update.pdf)
