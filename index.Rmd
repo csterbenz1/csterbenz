@@ -2,6 +2,9 @@
 title: "Ciara Sterbenz"
 site: distill::distill_website
 ---
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 
 ## Hello!
 
@@ -17,8 +20,6 @@ Name Pronunciation: "Kee-ruh" (Irish spellings are bonkers)
 </td>
 </tr>
 </table>
-
-
 
 ## Research
 
