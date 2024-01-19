@@ -1,0 +1,39 @@
+---
+title: "Teaching Experience at UCLA"
+site: distill::distill_website
+---
+
+## Head Instructor Role
+
+<ul>
+    <li>PS6 "Introduction to Data Analysis" - major requirement for social science undergraduates (Summer 2023) </li>
+    <li>PS139 “Politics of East Asia: Unique Puzzles for International Relations” - upper-division seminar (Summer 2023, Summer 2021)</li>
+    <li>Introductory Math Camp - preparation course for incoming Political Science PhD Students (Fall 2021)</li>
+</ul>
+
+
+## Teaching Assistant and Mentorship Roles
+
+### Graduate-level
+<ul>
+    <li>200C "Causal Inference for Social Science" with Prof. Chad Hazlett (Spring 2020, Spring 2021) </li>
+    <li>200D "Maximum Likelihood Estimation" with Prof. Jeff Lewis (Winter 2021, Winter 2022) </li>
+    <li>200E "Experimental Design for Social Science" with Associate Prof. Graeme Blair (Spring 2022) </li>
+    <li>Math Maven Mentor (AY 2023-24, AY 2021-22) </li>
+    <ul>
+    <li> offering weekly one-to-one mentorship in statistics and political methodology for graduate students in the Political Science Department </li>
+    <li> in collaboration with Derek Holliday, developed website to house original R tutorials and resources for students in the graduate methods sequence [available here](https://methodsmavens-psucla.github.io/) </li>
+    </ul>
+</ul>
+
+### Undergraduate-level
+<ul>
+    <li>PS20 "Introduction to International Relations" with Asistant Prof. Eric Min - IR introductory course for Political Science Majors  (Fall 2021) </li>
+</ul>
+
+
+
+
+<!--
+# Teaching Philosophy
+At UCLA I have had the opportunity to teach an upper division undergraduate seminar on the international relations of East Asia as well as a number of courses on applied statistics and data science. As an instructor, I seek not only to present students with the canonical research which has greatly influenced the field, but also to expose them to cross-disciplinary, contemporary research which has built upon and, at times, challenged these understandings. In my seminar courses, I highlight research not only in political science, but also sociology, women’s studies, history, and economics and encourage students to ask challenging questions and critically engage with course content. In data science courses, my pedagogical goal is to make computational social science as accessible as possible, particularly to those students who may be historically underrepresented or whose prior experiences have been discouraging in the past. I believe it is particularly important to foster an environment of collaboration and open communication to work through problems as they arise together. I aim to lower the “social stakes” of seeking guidance and encourage greater participation through groupwork and direct mentorship.  To this end, I structure class around a set of social science applications, teaching concepts in parallel with their practical employment to real-world questions. -->

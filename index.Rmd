@@ -22,7 +22,9 @@ Name Pronunciation: "Kee-ruh" (Irish spellings are bonkers)
 
 ## Research
 
-My research explores the domestic drivers of aggressive foreign policy, paying particular attention to executive appeals to nationalism and historical memory centering international rivalry. I focus inquiry on East Asia primarily among Japan, South Korea, and China. Additionally, I am also interested in political methodology and in separate projects explore applications of LLMs in political research, reducing user-specification sensitivity in survey weighting and causal inference approaches to observational data broadly speaking. 
+My research explores the interplay between domestic and international politics, seeking to understand, first, when and why foreign affairs becomes salient in the national dialogue, and, second, the ways in which the political climate at home affects state behavior on the international stage. With a substantive focus on East Asia, my dissertation examines first, when and where states strategically pursue aggressive foreign policy for domestic ends, leveraging interstate rivalry to amplify perceptions of foreign threat and rile anti-foreign nationalism, and second, how citizens respond in ways that affect larger political landscapes both home and abroad. 
+
+Additionally, I am also interested in political methodology and in separate projects explore applications of LLMs in political research, reducing user-specification sensitivity in survey weighting and causal inference approaches to observational data broadly speaking. 
 
 ## Teaching
 
@@ -30,4 +32,5 @@ At UCLA, I have twice taught a specialized upper-division seminar "Politics of E
 
 ## CV
 
-Please find my current CV [here](https://csterben1.github.io/docs/CV_2023_jan_update.pdf)
+Please find my current CV <a href="./CV_2023_jan.pdf" target="blank">here</a>
+
