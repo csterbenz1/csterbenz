@@ -15,7 +15,7 @@ site: distill::distill_website
 </td>
 <td>
 <b> Email:</b> cster@g.ucla.edu <br>
-I am currently a Ph.D Candidate at the University of California, Los Angeles and a US-Asia Grand Strategy Predoctoral Fellow at The Korean Studies Institute at University of Southern California. I'm grateful to be under the advisement of Prof Chad Hazlett. <br>
+Hello! I am currently a Rosenwald Postdoctoral Fellow in US Foreign Policy and International Security at Dartmouth's Dickey Center for International Understanding for AY2024-25. I received my Ph.D from at the University of California, Los Angeles in the Summer of 2024, and was previously a US-Asia Grand Strategy Pre-doctoral Fellow with the Korean Studies Institute at University of Southern California. I'm grateful to be under the advisement of Prof Chad Hazlett. <br>
 Name Pronunciation: "Kee-ruh" (Irish spellings are bonkers) 
 </td>
 </tr>
@@ -23,9 +23,9 @@ Name Pronunciation: "Kee-ruh" (Irish spellings are bonkers)
 
 ## Research
 
-My research explores the interplay between domestic and international politics, seeking to understand, first, when and why foreign affairs becomes salient in the national dialogue, and, second, the ways in which the political climate at home affects state behavior on the international stage. With a substantive focus on East Asia, my dissertation examines first, when and where states strategically pursue aggressive foreign policy for domestic ends, leveraging interstate rivalry to amplify perceptions of foreign threat and rile anti-foreign nationalism, and second, how citizens respond in ways that affect larger political landscapes both home and abroad. 
+My research explores the interplay between domestic and international politics, seeking to understand, first, when and why foreign affairs becomes salient in the national dialogue, and, second, the ways in which the political climate at home affects state behavior on the international stage. With a substantive focus on East Asia, my dissertation examined first, where states strategically pursue aggressive foreign policy for domestic ends, leveraging interstate rivalry and historical memory to amplify perceptions of foreign threat and rile anti-foreign nationalism. In my current book project and extension of my dissertation work, I further examine how citizens respond to conflictual foreign policy ways that affect larger political landscapes both home and abroad. 
 
-Additionally, I am also interested in political methodology and in separate projects explore applications of LLMs in political research, reducing user-specification sensitivity in survey weighting and causal inference approaches to observational data broadly speaking. 
+Additionally, I am also interested in political methodology. In separate projects, I explore applications of LLMs for social science research as well as methods for reducing user-specification sensitivity and bias in survey weighting for more accurate, representative surveys. 
 
 ## Teaching
 
@@ -33,5 +33,5 @@ At UCLA, I have twice taught a specialized upper-division seminar "Politics of E
 
 ## CV
 
-Please find my current CV <a href="./CV_2023_jan.pdf" target="blank">here</a>
+Please find my current CV <a href="./CV_2024_oct.pdf" target="blank">here</a>
 

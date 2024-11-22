@@ -8,16 +8,17 @@ site: distill::distill_website
 
 My research explores the interplay between domestic and international politics, seeking to understand, first, when and why foreign affairs becomes salient in the national dialogue, and, second, the ways in which the political climate at home affects state behavior on the international stage. With a substantive focus on East Asia, my dissertation examines first, when and where states strategically pursue aggressive foreign policy for domestic ends, leveraging interstate rivalry to amplify perceptions of foreign threat and rile anti-foreign nationalism, and second, how citizens respond in ways that affect larger political landscapes both home and abroad. 
 
-Additionally, I am also interested in political methodology and in separate projects explore applications of LLMs in political research, reducing user-specification sensitivity in survey weighting and causal inference approaches to observational data broadly speaking. 
+Additionally, I am also interested in political methodology and in separate projects explore applications of LLMs in political research, reducing user-specification sensitivity in survey weighting, and causal inference approaches to observational data broadly speaking. 
 
 ## Papers
 
-Hartman, E., Hazlett, C., Sterbenz, C. KPop: A Kernel Balancing Approach for Reducing Specification Assumptions in Survey Weighting. [arXiv:2107.08075.](https://arxiv.org/abs/2107.08075) Under review at JRSS-a Fall 2023.
+Hartman, E., Hazlett, C., & Sterbenz, C. (2024). Kpop: A kernel balancing approach for reducing 
+specification assumptions in survey weighting. Journal of the Royal Statistical Society Series A: Statistics in Society. <a href="https://doi.org/10.1093/jrsssa/qnae082" target="blank">https://doi.org/10.1093/jrsssa/qnae082</a> 
 
-Sterbenz, C. “Diversionary Diplomacy: Elite Rhetoric in Nationalist Standoffs.” Working Paper. January 2024.
+Sterbenz, C. “Diversionary Diplomacy: Elite Rhetoric in Nationalist Standoffs.” Working Paper. Fall 2024.
 
-Sterbenz, C. “Autocratic Power Consolidation in Times of Conflict.” Working Paper. January, 2021. Sterbenz, C. “Conflict and the Fate of Autocratic Leaders.” Working Paper. January, 2020.
-   
+Sterbenz, C. “Autocratic Power Consolidation in Times of Conflict.” Working Paper. January, 2021.
+
 Sterbenz, C. “Conflict and the Fate of Autocratic Leaders.” Working Paper. January, 2020. 
    
 Sterbenz, C., Trager, R. “Autonomous Weapons and Coercive Threats.” Pulse, Feb. 2019, website special topic, “AI in Strategic Context: Development Paths, Impacts, and Governance.” [Available here](https://escholarship.org/uc/item/2zx599j8)
