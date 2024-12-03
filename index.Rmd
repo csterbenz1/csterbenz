@@ -23,7 +23,7 @@ Name Pronunciation: "Kee-ruh" (Irish spellings are bonkers)
 
 ## Research
 
-My research explores the interplay between domestic and international politics, seeking to understand, first, when and why foreign affairs becomes salient in the national dialogue, and, second, the ways in which the political climate at home affects state behavior on the international stage. With a substantive focus on East Asia, my dissertation examined first, where states strategically pursue aggressive foreign policy for domestic ends, leveraging interstate rivalry and historical memory to amplify perceptions of foreign threat and rile anti-foreign nationalism. In my current book project and extension of my dissertation work, I further examine how citizens respond to conflictual foreign policy ways that affect larger political landscapes both home and abroad. 
+My research explores the interplay between domestic and international politics, seeking to understand, first, when and why foreign affairs becomes salient in the national dialogue, and, second, the ways in which the political climate at home affects state behavior on the international stage. With a substantive focus on East Asia, my dissertation examines first, where states strategically pursue aggressive foreign policy for domestic ends, leveraging interstate rivalry and historical memory to amplify perceptions of foreign threat and rile anti-foreign nationalism. In my current book project and extension of my dissertation work, I further examine how citizens respond to conflictual foreign policy in ways that affect larger political landscapes both home and abroad. 
 
 Additionally, I am also interested in political methodology. In separate projects, I explore applications of LLMs for social science research as well as methods for reducing user-specification sensitivity and bias in survey weighting for more accurate, representative surveys. 
 
@@ -33,5 +33,5 @@ At UCLA, I have twice taught a specialized upper-division seminar "Politics of E
 
 ## CV
 
-Please find my current CV <a href="./CV_2024_oct.pdf" target="blank">here</a>
+Please find my current CV <a href="./CV_2024_dec.pdf" target="blank">here</a>
 
