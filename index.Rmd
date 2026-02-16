@@ -15,7 +15,7 @@ site: distill::distill_website
 </td>
 <td>
 <b> Email:</b> cster@g.ucla.edu <br>
-Hello! I am currently a Rosenwald Postdoctoral Fellow in US Foreign Policy and International Security at Dartmouth's Dickey Center for International Understanding for AY2024-25. I received my Ph.D from at the University of California, Los Angeles in the Summer of 2024, and was previously a US-Asia Grand Strategy Pre-doctoral Fellow with the Korean Studies Institute at University of Southern California. I'm grateful to be under the advisement of Prof Chad Hazlett. <br>
+Hello! I am currently a Postdoctoral Associate at Yale's Identity and Conflict Lab. Prior to this I was a Rosenwald Postdoctoral Fellow in US Foreign Policy and International Security at Dartmouth's Dickey Center for International Understanding for AY2024-25. I received my Ph.D from at the University of California, Los Angeles in the Summer of 2024, and was previously a US-Asia Grand Strategy Pre-doctoral Fellow with the Korean Studies Institute at University of Southern California. I'm grateful to be under the advisement of Prof Chad Hazlett. <br>
 Name Pronunciation: "Kee-ruh" (Irish spellings are bonkers) 
 </td>
 </tr>
@@ -23,9 +23,17 @@ Name Pronunciation: "Kee-ruh" (Irish spellings are bonkers)
 
 ## Research
 
+
+With a substantive focus on East Asia, my research examines how historical rivalry which encompasses not only geopolitical competition, but also deeply rooted sociocultural antagonism affects relations between states.  In these contexts, national identity narratives directly incorporate a long-running history of interstate competition, framing popular understandings of “who we are” through accounts of “how we suffered” at the hands of a foreign rival. In my current book project and extension of my dissertation work, I argue that executives seek to capitalize on the identity-based threat such rivals evoke by instrumentally pursuing aggressive, but non-militarized foreign policy in a special set of historical disputes directly tied to the bilateral history of conflict in times of domestic insecurity. Drawing on interdisciplinary scholarship on historical memory as well as original survey evidence, I assert that citizens perceive foreign behavior in these disptues as a direct affront to nationhood, generating strong threat perceptions and fervent, anti-foreign nationalism well before tensions become militarized. Shedding light on the domestic drivers of aggressive foreign policy that perpetuate international rivalry, this research highlights the the pivotal role of nationalism and historical memory in fueling escalating tensions and conflictual outcomes.
+
+
+I am additionally interested in research in political methodology. In separate projects, I explore applications of LLMs for social science research as well as methods for reducing user-specification sensitivity and bias in survey weighting to produce more accurate, representative surveys. 
+
+<!-- old
 My research explores the interplay between domestic and international politics, seeking to understand, first, when and why foreign affairs becomes salient in the national dialogue, and, second, the ways in which the political climate at home affects state behavior on the international stage. With a substantive focus on East Asia, my dissertation examines first, where states strategically pursue aggressive foreign policy for domestic ends, leveraging interstate rivalry and historical memory to amplify perceptions of foreign threat and rile anti-foreign nationalism. In my current book project and extension of my dissertation work, I further examine how citizens respond to conflictual foreign policy in ways that affect larger political landscapes both home and abroad. 
 
 Additionally, I am also interested in political methodology. In separate projects, I explore applications of LLMs for social science research as well as methods for reducing user-specification sensitivity and bias in survey weighting for more accurate, representative surveys. 
+-->
 
 ## Teaching
 
@@ -33,5 +41,5 @@ At UCLA, I have twice taught a specialized upper-division seminar "Politics of E
 
 ## CV
 
-Please find my current CV <a href="./CV_2024_dec.pdf" target="blank">here</a>
+Please find my current CV <a href="./CV_2026_s.pdf" target="blank">here</a>
 
